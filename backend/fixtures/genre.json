@@ -1,0 +1,79 @@
+[
+{
+  "model": "core.genre",
+  "pk": 1304,
+  "fields": {
+    "name": "Education"
+  }
+},
+{
+  "model": "core.genre",
+  "pk": 1318,
+  "fields": {
+    "name": "Technology"
+  }
+},
+{
+  "model": "core.genre",
+  "pk": 1321,
+  "fields": {
+    "name": "Business"
+  }
+},
+{
+  "model": "core.genre",
+  "pk": 1410,
+  "fields": {
+    "name": "Careers"
+  }
+},
+{
+  "model": "core.genre",
+  "pk": 1412,
+  "fields": {
+    "name": "Investing"
+  }
+},
+{
+  "model": "core.genre",
+  "pk": 1487,
+  "fields": {
+    "name": "History"
+  }
+},
+{
+  "model": "core.genre",
+  "pk": 1491,
+  "fields": {
+    "name": "Management"
+  }
+},
+{
+  "model": "core.genre",
+  "pk": 1492,
+  "fields": {
+    "name": "Marketing"
+  }
+},
+{
+  "model": "core.genre",
+  "pk": 1493,
+  "fields": {
+    "name": "Entrepreneurship"
+  }
+},
+{
+  "model": "core.genre",
+  "pk": 1494,
+  "fields": {
+    "name": "Non-Profit"
+  }
+},
+{
+  "model": "core.genre",
+  "pk": 1511,
+  "fields": {
+    "name": "Government"
+  }
+}
+]

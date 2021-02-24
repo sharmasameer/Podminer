@@ -1,0 +1,77 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/jvectormap/2.0.5/jquery-jvectormap.min.css");
+.map svg {
+  width: 100%;
+  height: 85vh !important;
+}
+.jvectormap-legend {
+  margin-top: 150px !important;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 8vh;
+  font-size: smaller;
+}
+@media only screen and (max-width: 1200px) {
+  .map svg {
+    width: 100%;
+    padding-top: 0;
+    margin-top: 0;
+    height: 60vh !important;
+  }
+}
+@media only screen and (max-width: 1024px) {
+  .map svg {
+    width: 100%;
+    padding-top: 0vh;
+    margin-top: 0;
+    height: 50vh !important;
+  }
+}
+@media only screen and (max-width: 500px) {
+  .map svg {
+    width: 100%;
+    /* padding-top: -10vh; */
+    margin-top: -3vh;
+    height: 40vh !important;
+  }
+  .jvectormap-legend-cnt-h {
+    bottom: 0;
+    left: 6vw;
+  }
+  .jvectormap-zoomin,
+  .jvectormap-zoomout {
+    display: none;
+  }
+}
+@media only screen and (max-width: 300px) {
+  .map svg {
+    width: 100%;
+    padding-top: 0;
+    margin-top: -12vh;
+    height: 45vh !important;
+  }
+  .jvectormap-legend-cnt-h .jvectormap-legend .jvectormap-legend-tick {
+    width: 27px;
+    float: left;
+  }
+}
+
+.jvectormap-legend-cnt-h {
+  bottom: 0;
+  left: 0;
+}
+
+.jvectormap-legend-cnt-h {
+  bottom: 0;
+  left: 0;
+}
+
+.jvectormap-legend-icons {
+  background-color: rgba(192, 192, 192, 0.4);
+  color: black;
+}
+
+/* .jvectormap-legend-icons .jvectormap-legend-tick-sample {
+  background-size: cover;
+} */

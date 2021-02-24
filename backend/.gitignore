@@ -1,0 +1,8 @@
+env/
+.env
+*.sqlite3
+*/**/__pycache__
+__pycache__
+*.rdb
+#/backend/pikkal_analytics/settings.py
+staticfiles/

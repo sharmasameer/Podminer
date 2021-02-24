@@ -1,0 +1,92 @@
+.Modal {
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  z-index: 100;
+
+  .ModalContainer {
+    position: fixed;
+    z-index: 500;
+    left: 55%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    background-color: white;
+    width: 30vw;
+    border-radius: 10px;
+    box-shadow: 5px 5x 10px 60px #d9d9d9, -10px -10px 10px 60px #ffffff;
+    padding: 1em 4em;
+    min-width: 300px;
+    max-width: 600px;
+
+    p {
+      font-size: 1.2rem;
+      font-weight: bold;
+      text-align: center;
+    }
+
+    .Input {
+      width: 100%;
+      margin-bottom: 1em;
+    }
+
+    .ButtonDiv {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 1em;
+
+      .buttonEl {
+        width: 100%;
+      }
+    }
+  }
+}
+
+@media (max-width: 1350px) {
+  .buttonEl {
+    min-width: 0 !important;
+    max-width: 150px !important;
+  }
+}
+
+@media (max-width: 958px) {
+  .Modal {
+    .ModalContainer {
+      left: 50%;
+    }
+  }
+}
+
+@media (max-width: 676px) {
+  .Modal {
+    .ModalContainer {
+      font-size: 0.5rem;
+      width: 300px;
+      min-width: 0;
+    }
+  }
+}
+
+@media (max-width: 416px) {
+  .Modal {
+    .ModalContainer {
+      font-size: 0.4rem;
+
+      .Input {
+        font-size: 0.2rem;
+        margin-bottom: 2em;
+      }
+    }
+  }
+}
+
+@media (max-width: 350px) {
+  .Modal {
+    .ModalContainer {
+      width: 250px;
+    }
+  }
+}

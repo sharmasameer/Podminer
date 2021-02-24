@@ -1,0 +1,129 @@
+.table {
+  margin-bottom: 0;
+  width: 100%;
+  max-width: 100%;
+  background-color: transparent;
+  border-spacing: 0;
+  border-collapse: collapse;
+}
+
+.tableHeadCell {
+  color: inherit !important;
+  font-size: 1.5rem !important;
+  font-weight: bold !important;
+  min-width: 5ch;
+}
+
+.tableCell {
+  line-height: 1.42857143 !important;
+  vertical-align: middle !important;
+  font-size: 20px !important;
+  min-width: 5ch;
+
+  a {
+    color: inherit;
+  }
+
+  a:hover,
+  a:focus {
+    color: #036635 !important;
+    cursor: pointer;
+  }
+}
+
+.tableCell2 {
+  line-height: 1.42857143 !important;
+  vertical-align: middle !important;
+  font-size: 20px !important;
+  min-width: 5ch;
+
+  a {
+    color: #273747;
+    display: block;
+    height: 100%;
+    width: 100%;
+  }
+
+  a:hover,
+  a:focus {
+    color: #273747 !important;
+  }
+}
+
+.shortenTableWidth {
+  max-width: 12ch;
+}
+
+.tableResponsive {
+  width: 100%;
+  margin-top: 1em;
+  overflow-x: auto;
+}
+
+.tableHeadRow {
+  height: 56px;
+  color: inherit;
+  display: table-row;
+  outline: none;
+  vertical-align: middle;
+}
+
+.tableBodyRow,
+.stripedTableBodyRow {
+  height: 48px;
+  color: inherit;
+  display: table-row;
+  outline: none;
+  vertical-align: middle;
+}
+
+.stripedTableBodyRow {
+  background-color: rgba(238, 238, 238, 0.4);
+}
+
+.followedShowsBgColor {
+  background-color: #ffd271;
+}
+
+.loaderDiv {
+  width: 100%;
+  height: 60vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+@media (max-width: 500px) {
+  .tableHeadCell {
+    font-size: 1.2rem !important;
+  }
+
+  .tableCell,
+  .tableCell2 {
+    font-size: 0.8rem !important;
+    max-width: 100px !important;
+  }
+}
+
+@media (max-width: 390px) {
+  .tableHeadCell {
+    font-size: 0.9rem !important;
+  }
+
+  .tableCell,
+  .tableCell2 {
+    font-size: 0.8rem !important;
+  }
+}
+
+@media (max-width: 350px) {
+  .tableHeadCell {
+    font-size: 0.8rem !important;
+  }
+
+  .tableCell,
+  .tableCell2 {
+    font-size: 0.7rem !important;
+    max-width: 75px !important;
+  }
+}

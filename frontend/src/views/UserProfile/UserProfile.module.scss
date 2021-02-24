@@ -1,0 +1,87 @@
+.UserProfile {
+  margin: auto;
+}
+
+.cardStyles {
+  padding-left: 2rem !important;
+  padding-top: 1.5rem !important;
+  padding-bottom: 2rem !important;
+}
+
+.cardTitleWhite {
+  color: #fff;
+  margin-top: 10px;
+  min-height: auto;
+  font-size: 2rem;
+  font-weight: 300;
+  margin-bottom: 5px;
+  text-decoration: none;
+}
+
+.cardBody {
+  padding: 2em 6em !important;
+}
+
+.container {
+  margin: 0 !important;
+  padding: 0 !important;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 2em;
+}
+
+.btnContainer {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  margin-top: 1em;
+
+  .buttonEl {
+    display: block;
+  }
+}
+
+.cardFooter {
+  width: 95%;
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center !important;
+  margin-bottom: 2em !important;
+}
+
+.input {
+  width: 100%;
+  margin: 1.5em 0 !important;
+}
+
+@media (max-width: 1250px) {
+  .cardBody {
+    padding: 2em 5em !important;
+  }
+}
+
+@media (max-width: 768px) {
+  .container {
+    display: block;
+  }
+
+  .input {
+    margin: 1em 0 !important;
+  }
+
+  .btnContainer {
+    justify-content: center;
+  }
+}
+
+@media (max-width: 450px) {
+  .cardBody {
+    padding: 2.5em !important;
+  }
+
+  .btnContainer {
+    .buttonEl {
+      min-width: 0;
+    }
+  }
+}

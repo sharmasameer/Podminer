@@ -1,0 +1,114 @@
+.Login {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  width: 100%;
+  background-color: #036635;
+
+  .backButton {
+    font-size: 1.15rem;
+    position: absolute;
+    top: 1em;
+    left: 1em;
+  }
+}
+
+.noAccount {
+  text-align: center;
+  color: white;
+  font-size: 1.15rem;
+  position: fixed;
+  top: 80%;
+  bottom: 0;
+
+  p {
+    margin: 0.5em;
+  }
+
+  a {
+    text-decoration: none;
+    color: inherit;
+    font-weight: 500;
+  }
+
+  a:hover {
+    text-decoration: underline;
+  }
+}
+
+.wrapper {
+  display: grid;
+  gap: 1em;
+  grid-template-columns: 1fr 1fr;
+  width: 50vw;
+  max-width: 1200px;
+  min-width: 700px;
+  height: 52vh;
+  background-color: white;
+  border-radius: 20px;
+  overflow: hidden;
+  box-shadow: -20px 20px 60px #034424, 20px -20px 60px #035f33;
+  margin-bottom: 2em;
+
+  .imgDiv {
+    background-image: url("../../assets/img/bluePikkal.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .loaderDiv {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .contentDiv {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 3em 0 !important;
+
+    p {
+      font-size: 1.5rem;
+      font-weight: bold;
+      margin-top: -0.5em;
+    }
+
+    .input {
+      width: 80%;
+    }
+
+    .button {
+      margin-top: 3em !important;
+      width: 80%;
+      color: white !important;
+      background-color: #036635 !important;
+    }
+
+    .forgotPass {
+      color: inherit;
+      cursor: pointer;
+      margin-top: 1em;
+      font-weight: bold;
+
+      &:hover {
+        color: #034424;
+      }
+    }
+  }
+}
+
+@media (max-width: 800px) {
+  .wrapper {
+    min-width: 300px;
+    grid-template-columns: 1fr;
+
+    .imgDiv {
+      display: none;
+    }
+  }
+}

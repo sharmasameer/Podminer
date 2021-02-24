@@ -1,0 +1,77 @@
+.memberCard {
+  position: sticky;
+  box-sizing: border-box;
+  width: 100%;
+  height: 100vh;
+  background-color: rgba(255, 255, 255, 0.7);
+  backdrop-filter: blur(5px);
+  box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+  -webkit-backdrop-filter: blur(5px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  z-index: 100;
+  padding: 4em 2em;
+  bottom: 0.1em;
+  animation: fade 500ms ease-in-out forwards;
+
+  .lockDiv {
+    display: flex;
+    place-items: center;
+    padding: 2em;
+    background-color: #036635;
+    border-radius: 100px;
+  }
+
+  .memberCardTitle {
+    font-size: 1.8rem;
+    font-weight: bold;
+    margin: 1em 0 0.5em 0;
+  }
+
+  .memberCardDesc {
+    font-size: 1.4rem;
+    font-weight: 400;
+  }
+
+  .buttonEl {
+    display: block;
+    font-size: 0.9rem;
+  }
+}
+@-moz-document url-prefix() {
+  .memberCard {
+    background-color: white;
+  }
+}
+.small {
+  position: absolute;
+  left: 50%;
+  top: 10vh;
+  height: 50vh;
+  transform: translate(-50%, 0);
+  width: 90%;
+}
+
+@media (max-width: 450px) {
+  .memberCard {
+    padding: 2em;
+    .memberCardTitle {
+      font-size: 1.5rem;
+    }
+    .memberCardDesc {
+      font-size: 1rem;
+    }
+  }
+}
+
+@keyframes fade {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}

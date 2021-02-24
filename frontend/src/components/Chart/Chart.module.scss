@@ -1,0 +1,71 @@
+.chartContainer,
+.followedShowsChartContainer {
+  height: 60vh;
+  position: relative;
+  z-index: 10;
+}
+
+.lockedChart {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: rgba(250, 250, 250, 0.6);
+  z-index: 100;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+  backdrop-filter: blur(5px);
+
+  .lockedChartTitle {
+    font-size: 1.8rem;
+    font-weight: bold;
+    margin: 1em 0 0 0;
+  }
+
+  .lockedChartDesc {
+    font-size: 1.2rem;
+  }
+
+  .buttonEl {
+    display: block;
+  }
+}
+
+@media (max-width: 1228px) {
+  .chartContainer {
+    height: 45vh;
+  }
+  .followedShowsChartContainer {
+    height: 40vh;
+  }
+}
+
+@media (max-width: 976px) {
+  .chartContainer {
+    height: 40vh;
+  }
+}
+
+@media (max-width: 768px) {
+  .chartContainer {
+    height: 35vh;
+  }
+}
+
+@media (max-width: 450px) {
+  .lockedChart {
+    .lockedChartTitle {
+      font-size: 1.5rem;
+    }
+
+    .lockedChartDesc {
+      font-size: 1rem;
+    }
+  }
+}

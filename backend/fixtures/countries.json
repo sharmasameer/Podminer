@@ -1,0 +1,2730 @@
+[
+{
+  "model": "core.country",
+  "pk": "ad",
+  "fields": {
+    "name": "Andorra",
+    "region_code": "39",
+    "regionname": "Southern Europe",
+    "gdp": 3,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "ae",
+  "fields": {
+    "name": "United Arab Emirates",
+    "region_code": "145",
+    "regionname": "Western Asia",
+    "gdp": 421,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "af",
+  "fields": {
+    "name": "Afghanistan",
+    "region_code": "34",
+    "regionname": "Southern Asia",
+    "gdp": 19,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "ag",
+  "fields": {
+    "name": "Antigua and Barbuda",
+    "region_code": "419",
+    "regionname": "Latin America and the Caribbean",
+    "gdp": 1,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "ai",
+  "fields": {
+    "name": "Anguilla",
+    "region_code": "419",
+    "regionname": "Latin America and the Caribbean",
+    "gdp": 0,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "al",
+  "fields": {
+    "name": "Albania",
+    "region_code": "39",
+    "regionname": "Southern Europe",
+    "gdp": 15,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "am",
+  "fields": {
+    "name": "Armenia",
+    "region_code": "145",
+    "regionname": "Western Asia",
+    "gdp": 13,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "ao",
+  "fields": {
+    "name": "Angola",
+    "region_code": "202",
+    "regionname": "Sub-Saharan Africa",
+    "gdp": 94,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "aq",
+  "fields": {
+    "name": "Antarctica",
+    "region_code": "AQ",
+    "regionname": "Antarctica",
+    "gdp": 0,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "ar",
+  "fields": {
+    "name": "Argentina",
+    "region_code": "419",
+    "regionname": "Latin America and the Caribbean",
+    "gdp": 449,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "as",
+  "fields": {
+    "name": "American Samoa",
+    "region_code": "61",
+    "regionname": "Polynesia",
+    "gdp": 0,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "at",
+  "fields": {
+    "name": "Austria",
+    "region_code": "155",
+    "regionname": "Western Europe",
+    "gdp": 446,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "au",
+  "fields": {
+    "name": "Australia",
+    "region_code": "53",
+    "regionname": "Australia and New Zealand",
+    "gdp": 1392,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "aw",
+  "fields": {
+    "name": "Aruba",
+    "region_code": "419",
+    "regionname": "Latin America and the Caribbean",
+    "gdp": 0,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "az",
+  "fields": {
+    "name": "Azerbaijan",
+    "region_code": "145",
+    "regionname": "Western Asia",
+    "gdp": 48,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "ba",
+  "fields": {
+    "name": "Bosnia and Herzegovina",
+    "region_code": "39",
+    "regionname": "Southern Europe",
+    "gdp": 20,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "bb",
+  "fields": {
+    "name": "Barbados",
+    "region_code": "419",
+    "regionname": "Latin America and the Caribbean",
+    "gdp": 5,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "bd",
+  "fields": {
+    "name": "Bangladesh",
+    "region_code": "34",
+    "regionname": "Southern Asia",
+    "gdp": 302,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "be",
+  "fields": {
+    "name": "Belgium",
+    "region_code": "155",
+    "regionname": "Western Europe",
+    "gdp": 529,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "bf",
+  "fields": {
+    "name": "Burkina Faso",
+    "region_code": "202",
+    "regionname": "Sub-Saharan Africa",
+    "gdp": 15,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "bg",
+  "fields": {
+    "name": "Bulgaria",
+    "region_code": "151",
+    "regionname": "Eastern Europe",
+    "gdp": 67,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "bh",
+  "fields": {
+    "name": "Bahrain",
+    "region_code": "145",
+    "regionname": "Western Asia",
+    "gdp": 38,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "bi",
+  "fields": {
+    "name": "Burundi",
+    "region_code": "202",
+    "regionname": "Sub-Saharan Africa",
+    "gdp": 3,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "bj",
+  "fields": {
+    "name": "Benin",
+    "region_code": "202",
+    "regionname": "Sub-Saharan Africa",
+    "gdp": 14,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "bl",
+  "fields": {
+    "name": "Saint Barthélemy",
+    "region_code": "419",
+    "regionname": "Latin America and the Caribbean",
+    "gdp": 0,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "bm",
+  "fields": {
+    "name": "Bermuda",
+    "region_code": "21",
+    "regionname": "Northern America",
+    "gdp": 0,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "bn",
+  "fields": {
+    "name": "Brunei Darussalam",
+    "region_code": "35",
+    "regionname": "South-eastern Asia",
+    "gdp": 0,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "bo",
+  "fields": {
+    "name": "Bolivia, Plurinational State of",
+    "region_code": "419",
+    "regionname": "Latin America and the Caribbean",
+    "gdp": 40,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "bq",
+  "fields": {
+    "name": "Bonaire, Sint Eustatius and Saba",
+    "region_code": "419",
+    "regionname": "Latin America and the Caribbean",
+    "gdp": 0,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "br",
+  "fields": {
+    "name": "Brazil",
+    "region_code": "419",
+    "regionname": "Latin America and the Caribbean",
+    "gdp": 1839,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "bs",
+  "fields": {
+    "name": "Bahamas",
+    "region_code": "419",
+    "regionname": "Latin America and the Caribbean",
+    "gdp": 12,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "bt",
+  "fields": {
+    "name": "Bhutan",
+    "region_code": "34",
+    "regionname": "Southern Asia",
+    "gdp": 2,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "bv",
+  "fields": {
+    "name": "Bouvet Island",
+    "region_code": "419",
+    "regionname": "Latin America and the Caribbean",
+    "gdp": 0,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "bw",
+  "fields": {
+    "name": "Botswana",
+    "region_code": "202",
+    "regionname": "Sub-Saharan Africa",
+    "gdp": 18,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "by",
+  "fields": {
+    "name": "Belarus",
+    "region_code": "151",
+    "regionname": "Eastern Europe",
+    "gdp": 63,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "bz",
+  "fields": {
+    "name": "Belize",
+    "region_code": "419",
+    "regionname": "Latin America and the Caribbean",
+    "gdp": 1,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "ca",
+  "fields": {
+    "name": "Canada",
+    "region_code": "21",
+    "regionname": "Northern America",
+    "gdp": 1736,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "cc",
+  "fields": {
+    "name": "Cocos (Keeling) Islands",
+    "region_code": "53",
+    "regionname": "Australia and New Zealand",
+    "gdp": 0,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "cd",
+  "fields": {
+    "name": "Congo, the Democratic Republic of the",
+    "region_code": "202",
+    "regionname": "Sub-Saharan Africa",
+    "gdp": 47,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "cf",
+  "fields": {
+    "name": "Central African Republic",
+    "region_code": "202",
+    "regionname": "Sub-Saharan Africa",
+    "gdp": 2,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "cg",
+  "fields": {
+    "name": "Congo",
+    "region_code": "202",
+    "regionname": "Sub-Saharan Africa",
+    "gdp": 0,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "ch",
+  "fields": {
+    "name": "Switzerland",
+    "region_code": "155",
+    "regionname": "Western Europe",
+    "gdp": 703,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "ci",
+  "fields": {
+    "name": "Côte d'Ivoire",
+    "region_code": "202",
+    "regionname": "Sub-Saharan Africa",
+    "gdp": 0,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "ck",
+  "fields": {
+    "name": "Cook Islands",
+    "region_code": "61",
+    "regionname": "Polynesia",
+    "gdp": 0,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "cl",
+  "fields": {
+    "name": "Chile",
+    "region_code": "419",
+    "regionname": "Latin America and the Caribbean",
+    "gdp": 282,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "cm",
+  "fields": {
+    "name": "Cameroon",
+    "region_code": "202",
+    "regionname": "Sub-Saharan Africa",
+    "gdp": 38,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "cn",
+  "fields": {
+    "name": "China",
+    "region_code": "30",
+    "regionname": "Eastern Asia",
+    "gdp": 14342,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "co",
+  "fields": {
+    "name": "Colombia",
+    "region_code": "419",
+    "regionname": "Latin America and the Caribbean",
+    "gdp": 323,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "cr",
+  "fields": {
+    "name": "Costa Rica",
+    "region_code": "419",
+    "regionname": "Latin America and the Caribbean",
+    "gdp": 61,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "cu",
+  "fields": {
+    "name": "Cuba",
+    "region_code": "419",
+    "regionname": "Latin America and the Caribbean",
+    "gdp": 100,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "cv",
+  "fields": {
+    "name": "Cape Verde",
+    "region_code": "202",
+    "regionname": "Sub-Saharan Africa",
+    "gdp": 0,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "cw",
+  "fields": {
+    "name": "Curaçao",
+    "region_code": "419",
+    "regionname": "Latin America and the Caribbean",
+    "gdp": 0,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "cx",
+  "fields": {
+    "name": "Christmas Island",
+    "region_code": "53",
+    "regionname": "Australia and New Zealand",
+    "gdp": 0,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "cy",
+  "fields": {
+    "name": "Cyprus",
+    "region_code": "145",
+    "regionname": "Western Asia",
+    "gdp": 24,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "cz",
+  "fields": {
+    "name": "Czech Republic",
+    "region_code": "151",
+    "regionname": "Eastern Europe",
+    "gdp": 246,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "de",
+  "fields": {
+    "name": "Germany",
+    "region_code": "155",
+    "regionname": "Western Europe",
+    "gdp": 3845,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "dj",
+  "fields": {
+    "name": "Djibouti",
+    "region_code": "202",
+    "regionname": "Sub-Saharan Africa",
+    "gdp": 3,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "dk",
+  "fields": {
+    "name": "Denmark",
+    "region_code": "154",
+    "regionname": "Northern Europe",
+    "gdp": 348,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "dm",
+  "fields": {
+    "name": "Dominica",
+    "region_code": "419",
+    "regionname": "Latin America and the Caribbean",
+    "gdp": 0,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "do",
+  "fields": {
+    "name": "Dominican Republic",
+    "region_code": "419",
+    "regionname": "Latin America and the Caribbean",
+    "gdp": 88,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "dz",
+  "fields": {
+    "name": "Algeria",
+    "region_code": "15",
+    "regionname": "Northern Africa",
+    "gdp": 169,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "ec",
+  "fields": {
+    "name": "Ecuador",
+    "region_code": "419",
+    "regionname": "Latin America and the Caribbean",
+    "gdp": 107,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "ee",
+  "fields": {
+    "name": "Estonia",
+    "region_code": "154",
+    "regionname": "Northern Europe",
+    "gdp": 31,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "eg",
+  "fields": {
+    "name": "Egypt",
+    "region_code": "15",
+    "regionname": "Northern Africa",
+    "gdp": 303,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "eh",
+  "fields": {
+    "name": "Western Sahara",
+    "region_code": "15",
+    "regionname": "Northern Africa",
+    "gdp": 0,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "er",
+  "fields": {
+    "name": "Eritrea",
+    "region_code": "202",
+    "regionname": "Sub-Saharan Africa",
+    "gdp": 0,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "es",
+  "fields": {
+    "name": "Spain",
+    "region_code": "39",
+    "regionname": "Southern Europe",
+    "gdp": 1394,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "et",
+  "fields": {
+    "name": "Ethiopia",
+    "region_code": "202",
+    "regionname": "Sub-Saharan Africa",
+    "gdp": 96,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "fi",
+  "fields": {
+    "name": "Finland",
+    "region_code": "154",
+    "regionname": "Northern Europe",
+    "gdp": 268,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "fj",
+  "fields": {
+    "name": "Fiji",
+    "region_code": "54",
+    "regionname": "Melanesia",
+    "gdp": 5,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "fk",
+  "fields": {
+    "name": "Falkland Islands (Malvinas)",
+    "region_code": "419",
+    "regionname": "Latin America and the Caribbean",
+    "gdp": 0,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "fm",
+  "fields": {
+    "name": "Micronesia, Federated States of",
+    "region_code": "57",
+    "regionname": "Micronesia",
+    "gdp": 0,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "fo",
+  "fields": {
+    "name": "Faroe Islands",
+    "region_code": "154",
+    "regionname": "Northern Europe",
+    "gdp": 0,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "fr",
+  "fields": {
+    "name": "France",
+    "region_code": "155",
+    "regionname": "Western Europe",
+    "gdp": 2715,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "ga",
+  "fields": {
+    "name": "Gabon",
+    "region_code": "202",
+    "regionname": "Sub-Saharan Africa",
+    "gdp": 16,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "gb",
+  "fields": {
+    "name": "United Kingdom",
+    "region_code": "154",
+    "regionname": "Northern Europe",
+    "gdp": 2827,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "gd",
+  "fields": {
+    "name": "Grenada",
+    "region_code": "419",
+    "regionname": "Latin America and the Caribbean",
+    "gdp": 1,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "ge",
+  "fields": {
+    "name": "Georgia",
+    "region_code": "145",
+    "regionname": "Western Asia",
+    "gdp": 17,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "gf",
+  "fields": {
+    "name": "French Guiana",
+    "region_code": "419",
+    "regionname": "Latin America and the Caribbean",
+    "gdp": 0,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "gg",
+  "fields": {
+    "name": "Guernsey",
+    "region_code": "154",
+    "regionname": "Northern Europe",
+    "gdp": 0,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "gh",
+  "fields": {
+    "name": "Ghana",
+    "region_code": "202",
+    "regionname": "Sub-Saharan Africa",
+    "gdp": 66,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "gi",
+  "fields": {
+    "name": "Gibraltar",
+    "region_code": "39",
+    "regionname": "Southern Europe",
+    "gdp": 0,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "gl",
+  "fields": {
+    "name": "Greenland",
+    "region_code": "21",
+    "regionname": "Northern America",
+    "gdp": 0,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "gm",
+  "fields": {
+    "name": "Gambia",
+    "region_code": "202",
+    "regionname": "Sub-Saharan Africa",
+    "gdp": 0,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "gn",
+  "fields": {
+    "name": "Guinea",
+    "region_code": "202",
+    "regionname": "Sub-Saharan Africa",
+    "gdp": 13,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "gp",
+  "fields": {
+    "name": "Guadeloupe",
+    "region_code": "419",
+    "regionname": "Latin America and the Caribbean",
+    "gdp": 0,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "gq",
+  "fields": {
+    "name": "Equatorial Guinea",
+    "region_code": "202",
+    "regionname": "Sub-Saharan Africa",
+    "gdp": 11,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "gr",
+  "fields": {
+    "name": "Greece",
+    "region_code": "39",
+    "regionname": "Southern Europe",
+    "gdp": 209,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "gs",
+  "fields": {
+    "name": "South Georgia and the South Sandwich Islands",
+    "region_code": "419",
+    "regionname": "Latin America and the Caribbean",
+    "gdp": 0,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "gt",
+  "fields": {
+    "name": "Guatemala",
+    "region_code": "419",
+    "regionname": "Latin America and the Caribbean",
+    "gdp": 76,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "gu",
+  "fields": {
+    "name": "Guam",
+    "region_code": "57",
+    "regionname": "Micronesia",
+    "gdp": 0,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "gw",
+  "fields": {
+    "name": "Guinea-Bissau",
+    "region_code": "202",
+    "regionname": "Sub-Saharan Africa",
+    "gdp": 1,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "gy",
+  "fields": {
+    "name": "Guyana",
+    "region_code": "419",
+    "regionname": "Latin America and the Caribbean",
+    "gdp": 4,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "hk",
+  "fields": {
+    "name": "Hong Kong",
+    "region_code": "30",
+    "regionname": "Eastern Asia",
+    "gdp": 366,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "hm",
+  "fields": {
+    "name": "Heard Island and McDonald Islands",
+    "region_code": "53",
+    "regionname": "Australia and New Zealand",
+    "gdp": 0,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "hn",
+  "fields": {
+    "name": "Honduras",
+    "region_code": "419",
+    "regionname": "Latin America and the Caribbean",
+    "gdp": 25,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "hr",
+  "fields": {
+    "name": "Croatia",
+    "region_code": "39",
+    "regionname": "Southern Europe",
+    "gdp": 60,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "ht",
+  "fields": {
+    "name": "Haiti",
+    "region_code": "419",
+    "regionname": "Latin America and the Caribbean",
+    "gdp": 8,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "hu",
+  "fields": {
+    "name": "Hungary",
+    "region_code": "151",
+    "regionname": "Eastern Europe",
+    "gdp": 160,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "id",
+  "fields": {
+    "name": "Indonesia",
+    "region_code": "35",
+    "regionname": "South-eastern Asia",
+    "gdp": 1119,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "ie",
+  "fields": {
+    "name": "Ireland",
+    "region_code": "154",
+    "regionname": "Northern Europe",
+    "gdp": 388,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "il",
+  "fields": {
+    "name": "Israel",
+    "region_code": "145",
+    "regionname": "Western Asia",
+    "gdp": 395,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "im",
+  "fields": {
+    "name": "Isle of Man",
+    "region_code": "154",
+    "regionname": "Northern Europe",
+    "gdp": 0,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "in",
+  "fields": {
+    "name": "India",
+    "region_code": "34",
+    "regionname": "Southern Asia",
+    "gdp": 2875,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "io",
+  "fields": {
+    "name": "British Indian Ocean Territory",
+    "region_code": "202",
+    "regionname": "Sub-Saharan Africa",
+    "gdp": 0,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "iq",
+  "fields": {
+    "name": "Iraq",
+    "region_code": "145",
+    "regionname": "Western Asia",
+    "gdp": 234,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "ir",
+  "fields": {
+    "name": "Iran, Islamic Republic of",
+    "region_code": "34",
+    "regionname": "Southern Asia",
+    "gdp": 445,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "is",
+  "fields": {
+    "name": "Iceland",
+    "region_code": "154",
+    "regionname": "Northern Europe",
+    "gdp": 24,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "it",
+  "fields": {
+    "name": "Italy",
+    "region_code": "39",
+    "regionname": "Southern Europe",
+    "gdp": 2001,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "je",
+  "fields": {
+    "name": "Jersey",
+    "region_code": "154",
+    "regionname": "Northern Europe",
+    "gdp": 0,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "jm",
+  "fields": {
+    "name": "Jamaica",
+    "region_code": "419",
+    "regionname": "Latin America and the Caribbean",
+    "gdp": 16,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "jo",
+  "fields": {
+    "name": "Jordan",
+    "region_code": "145",
+    "regionname": "Western Asia",
+    "gdp": 43,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "jp",
+  "fields": {
+    "name": "Japan",
+    "region_code": "30",
+    "regionname": "Eastern Asia",
+    "gdp": 5081,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "ke",
+  "fields": {
+    "name": "Kenya",
+    "region_code": "202",
+    "regionname": "Sub-Saharan Africa",
+    "gdp": 95,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "kg",
+  "fields": {
+    "name": "Kyrgyzstan",
+    "region_code": "143",
+    "regionname": "Central Asia",
+    "gdp": 8,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "kh",
+  "fields": {
+    "name": "Cambodia",
+    "region_code": "35",
+    "regionname": "South-eastern Asia",
+    "gdp": 27,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "ki",
+  "fields": {
+    "name": "Kiribati",
+    "region_code": "57",
+    "regionname": "Micronesia",
+    "gdp": 0,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "km",
+  "fields": {
+    "name": "Comoros",
+    "region_code": "202",
+    "regionname": "Sub-Saharan Africa",
+    "gdp": 1,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "kn",
+  "fields": {
+    "name": "Saint Kitts and Nevis",
+    "region_code": "419",
+    "regionname": "Latin America and the Caribbean",
+    "gdp": 1,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "kp",
+  "fields": {
+    "name": "Korea, Democratic People's Republic of",
+    "region_code": "30",
+    "regionname": "Eastern Asia",
+    "gdp": 1642,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "kr",
+  "fields": {
+    "name": "Korea, Republic of",
+    "region_code": "30",
+    "regionname": "Eastern Asia",
+    "gdp": 0,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "kw",
+  "fields": {
+    "name": "Kuwait",
+    "region_code": "145",
+    "regionname": "Western Asia",
+    "gdp": 134,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "ky",
+  "fields": {
+    "name": "Cayman Islands",
+    "region_code": "419",
+    "regionname": "Latin America and the Caribbean",
+    "gdp": 0,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "kz",
+  "fields": {
+    "name": "Kazakhstan",
+    "region_code": "143",
+    "regionname": "Central Asia",
+    "gdp": 180,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "la",
+  "fields": {
+    "name": "Lao People's Democratic Republic",
+    "region_code": "35",
+    "regionname": "South-eastern Asia",
+    "gdp": 0,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "lb",
+  "fields": {
+    "name": "Lebanon",
+    "region_code": "145",
+    "regionname": "Western Asia",
+    "gdp": 53,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "lc",
+  "fields": {
+    "name": "Saint Lucia",
+    "region_code": "419",
+    "regionname": "Latin America and the Caribbean",
+    "gdp": 2,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "li",
+  "fields": {
+    "name": "Liechtenstein",
+    "region_code": "155",
+    "regionname": "Western Europe",
+    "gdp": 0,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "lk",
+  "fields": {
+    "name": "Sri Lanka",
+    "region_code": "34",
+    "regionname": "Southern Asia",
+    "gdp": 84,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "lr",
+  "fields": {
+    "name": "Liberia",
+    "region_code": "202",
+    "regionname": "Sub-Saharan Africa",
+    "gdp": 3,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "ls",
+  "fields": {
+    "name": "Lesotho",
+    "region_code": "202",
+    "regionname": "Sub-Saharan Africa",
+    "gdp": 2,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "lt",
+  "fields": {
+    "name": "Lithuania",
+    "region_code": "154",
+    "regionname": "Northern Europe",
+    "gdp": 54,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "lu",
+  "fields": {
+    "name": "Luxembourg",
+    "region_code": "155",
+    "regionname": "Western Europe",
+    "gdp": 71,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "lv",
+  "fields": {
+    "name": "Latvia",
+    "region_code": "154",
+    "regionname": "Northern Europe",
+    "gdp": 34,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "ly",
+  "fields": {
+    "name": "Libya",
+    "region_code": "15",
+    "regionname": "Northern Africa",
+    "gdp": 52,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "ma",
+  "fields": {
+    "name": "Morocco",
+    "region_code": "15",
+    "regionname": "Northern Africa",
+    "gdp": 118,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "mc",
+  "fields": {
+    "name": "Monaco",
+    "region_code": "155",
+    "regionname": "Western Europe",
+    "gdp": 0,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "md",
+  "fields": {
+    "name": "Moldova, Republic of",
+    "region_code": "151",
+    "regionname": "Eastern Europe",
+    "gdp": 0,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "me",
+  "fields": {
+    "name": "Montenegro",
+    "region_code": "39",
+    "regionname": "Southern Europe",
+    "gdp": 5,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "mf",
+  "fields": {
+    "name": "Saint Martin (French part)",
+    "region_code": "419",
+    "regionname": "Latin America and the Caribbean",
+    "gdp": 0,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "mg",
+  "fields": {
+    "name": "Madagascar",
+    "region_code": "202",
+    "regionname": "Sub-Saharan Africa",
+    "gdp": 14,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "mh",
+  "fields": {
+    "name": "Marshall Islands",
+    "region_code": "57",
+    "regionname": "Micronesia",
+    "gdp": 0,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "mk",
+  "fields": {
+    "name": "Macedonia, the Former Yugoslav Republic of",
+    "region_code": "39",
+    "regionname": "Southern Europe",
+    "gdp": 0,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "ml",
+  "fields": {
+    "name": "Mali",
+    "region_code": "202",
+    "regionname": "Sub-Saharan Africa",
+    "gdp": 17,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "mm",
+  "fields": {
+    "name": "Myanmar",
+    "region_code": "35",
+    "regionname": "South-eastern Asia",
+    "gdp": 76,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "mn",
+  "fields": {
+    "name": "Mongolia",
+    "region_code": "30",
+    "regionname": "Eastern Asia",
+    "gdp": 13,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "mo",
+  "fields": {
+    "name": "Macao",
+    "region_code": "30",
+    "regionname": "Eastern Asia",
+    "gdp": 53,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "mp",
+  "fields": {
+    "name": "Northern Mariana Islands",
+    "region_code": "57",
+    "regionname": "Micronesia",
+    "gdp": 0,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "mq",
+  "fields": {
+    "name": "Martinique",
+    "region_code": "419",
+    "regionname": "Latin America and the Caribbean",
+    "gdp": 0,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "mr",
+  "fields": {
+    "name": "Mauritania",
+    "region_code": "202",
+    "regionname": "Sub-Saharan Africa",
+    "gdp": 7,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "ms",
+  "fields": {
+    "name": "Montserrat",
+    "region_code": "419",
+    "regionname": "Latin America and the Caribbean",
+    "gdp": 0,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "mt",
+  "fields": {
+    "name": "Malta",
+    "region_code": "39",
+    "regionname": "Southern Europe",
+    "gdp": 14,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "mu",
+  "fields": {
+    "name": "Mauritius",
+    "region_code": "202",
+    "regionname": "Sub-Saharan Africa",
+    "gdp": 14,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "mv",
+  "fields": {
+    "name": "Maldives",
+    "region_code": "34",
+    "regionname": "Southern Asia",
+    "gdp": 5,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "mw",
+  "fields": {
+    "name": "Malawi",
+    "region_code": "202",
+    "regionname": "Sub-Saharan Africa",
+    "gdp": 7,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "mx",
+  "fields": {
+    "name": "Mexico",
+    "region_code": "419",
+    "regionname": "Latin America and the Caribbean",
+    "gdp": 1258,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "my",
+  "fields": {
+    "name": "Malaysia",
+    "region_code": "35",
+    "regionname": "South-eastern Asia",
+    "gdp": 364,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "mz",
+  "fields": {
+    "name": "Mozambique",
+    "region_code": "202",
+    "regionname": "Sub-Saharan Africa",
+    "gdp": 14,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "na",
+  "fields": {
+    "name": "Namibia",
+    "region_code": "202",
+    "regionname": "Sub-Saharan Africa",
+    "gdp": 12,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "nc",
+  "fields": {
+    "name": "New Caledonia",
+    "region_code": "54",
+    "regionname": "Melanesia",
+    "gdp": 0,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "ne",
+  "fields": {
+    "name": "Niger",
+    "region_code": "202",
+    "regionname": "Sub-Saharan Africa",
+    "gdp": 12,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "nf",
+  "fields": {
+    "name": "Norfolk Island",
+    "region_code": "53",
+    "regionname": "Australia and New Zealand",
+    "gdp": 0,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "ng",
+  "fields": {
+    "name": "Nigeria",
+    "region_code": "202",
+    "regionname": "Sub-Saharan Africa",
+    "gdp": 448,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "ni",
+  "fields": {
+    "name": "Nicaragua",
+    "region_code": "419",
+    "regionname": "Latin America and the Caribbean",
+    "gdp": 12,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "nl",
+  "fields": {
+    "name": "Netherlands",
+    "region_code": "155",
+    "regionname": "Western Europe",
+    "gdp": 909,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "no",
+  "fields": {
+    "name": "Norway",
+    "region_code": "154",
+    "regionname": "Northern Europe",
+    "gdp": 403,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "np",
+  "fields": {
+    "name": "Nepal",
+    "region_code": "34",
+    "regionname": "Southern Asia",
+    "gdp": 30,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "nr",
+  "fields": {
+    "name": "Nauru",
+    "region_code": "57",
+    "regionname": "Micronesia",
+    "gdp": 0,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "nu",
+  "fields": {
+    "name": "Niue",
+    "region_code": "61",
+    "regionname": "Polynesia",
+    "gdp": 0,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "nz",
+  "fields": {
+    "name": "New Zealand",
+    "region_code": "53",
+    "regionname": "Australia and New Zealand",
+    "gdp": 206,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "om",
+  "fields": {
+    "name": "Oman",
+    "region_code": "145",
+    "regionname": "Western Asia",
+    "gdp": 76,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "pa",
+  "fields": {
+    "name": "Panama",
+    "region_code": "419",
+    "regionname": "Latin America and the Caribbean",
+    "gdp": 66,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "pe",
+  "fields": {
+    "name": "Peru",
+    "region_code": "419",
+    "regionname": "Latin America and the Caribbean",
+    "gdp": 226,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "pf",
+  "fields": {
+    "name": "French Polynesia",
+    "region_code": "61",
+    "regionname": "Polynesia",
+    "gdp": 0,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "pg",
+  "fields": {
+    "name": "Papua New Guinea",
+    "region_code": "54",
+    "regionname": "Melanesia",
+    "gdp": 24,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "ph",
+  "fields": {
+    "name": "Philippines",
+    "region_code": "35",
+    "regionname": "South-eastern Asia",
+    "gdp": 376,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "pk",
+  "fields": {
+    "name": "Pakistan",
+    "region_code": "34",
+    "regionname": "Southern Asia",
+    "gdp": 278,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "pl",
+  "fields": {
+    "name": "Poland",
+    "region_code": "151",
+    "regionname": "Eastern Europe",
+    "gdp": 592,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "pm",
+  "fields": {
+    "name": "Saint Pierre and Miquelon",
+    "region_code": "21",
+    "regionname": "Northern America",
+    "gdp": 0,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "pn",
+  "fields": {
+    "name": "Pitcairn",
+    "region_code": "61",
+    "regionname": "Polynesia",
+    "gdp": 0,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "pr",
+  "fields": {
+    "name": "Puerto Rico",
+    "region_code": "419",
+    "regionname": "Latin America and the Caribbean",
+    "gdp": 104,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "ps",
+  "fields": {
+    "name": "Palestine, State of",
+    "region_code": "145",
+    "regionname": "Western Asia",
+    "gdp": 0,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "pt",
+  "fields": {
+    "name": "Portugal",
+    "region_code": "39",
+    "regionname": "Southern Europe",
+    "gdp": 237,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "pw",
+  "fields": {
+    "name": "Palau",
+    "region_code": "57",
+    "regionname": "Micronesia",
+    "gdp": 0,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "py",
+  "fields": {
+    "name": "Paraguay",
+    "region_code": "419",
+    "regionname": "Latin America and the Caribbean",
+    "gdp": 38,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "qa",
+  "fields": {
+    "name": "Qatar",
+    "region_code": "145",
+    "regionname": "Western Asia",
+    "gdp": 183,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "re",
+  "fields": {
+    "name": "Réunion",
+    "region_code": "202",
+    "regionname": "Sub-Saharan Africa",
+    "gdp": 0,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "ro",
+  "fields": {
+    "name": "Romania",
+    "region_code": "151",
+    "regionname": "Eastern Europe",
+    "gdp": 250,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "rs",
+  "fields": {
+    "name": "Serbia",
+    "region_code": "39",
+    "regionname": "Southern Europe",
+    "gdp": 51,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "ru",
+  "fields": {
+    "name": "Russian Federation",
+    "region_code": "151",
+    "regionname": "Eastern Europe",
+    "gdp": 1699,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "rw",
+  "fields": {
+    "name": "Rwanda",
+    "region_code": "202",
+    "regionname": "Sub-Saharan Africa",
+    "gdp": 10,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "sa",
+  "fields": {
+    "name": "Saudi Arabia",
+    "region_code": "145",
+    "regionname": "Western Asia",
+    "gdp": 792,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "sb",
+  "fields": {
+    "name": "Solomon Islands",
+    "region_code": "54",
+    "regionname": "Melanesia",
+    "gdp": 1,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "sc",
+  "fields": {
+    "name": "Seychelles",
+    "region_code": "202",
+    "regionname": "Sub-Saharan Africa",
+    "gdp": 1,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "sd",
+  "fields": {
+    "name": "Sudan",
+    "region_code": "15",
+    "regionname": "Northern Africa",
+    "gdp": 18,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "se",
+  "fields": {
+    "name": "Sweden",
+    "region_code": "154",
+    "regionname": "Northern Europe",
+    "gdp": 530,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "sg",
+  "fields": {
+    "name": "Singapore",
+    "region_code": "35",
+    "regionname": "South-eastern Asia",
+    "gdp": 372,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "sh",
+  "fields": {
+    "name": "Saint Helena, Ascension and Tristan da Cunha",
+    "region_code": "202",
+    "regionname": "Sub-Saharan Africa",
+    "gdp": 0,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "si",
+  "fields": {
+    "name": "Slovenia",
+    "region_code": "39",
+    "regionname": "Southern Europe",
+    "gdp": 53,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "sj",
+  "fields": {
+    "name": "Svalbard and Jan Mayen",
+    "region_code": "154",
+    "regionname": "Northern Europe",
+    "gdp": 0,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "sk",
+  "fields": {
+    "name": "Slovakia",
+    "region_code": "151",
+    "regionname": "Eastern Europe",
+    "gdp": 105,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "sl",
+  "fields": {
+    "name": "Sierra Leone",
+    "region_code": "202",
+    "regionname": "Sub-Saharan Africa",
+    "gdp": 3,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "sm",
+  "fields": {
+    "name": "San Marino",
+    "region_code": "39",
+    "regionname": "Southern Europe",
+    "gdp": 1,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "sn",
+  "fields": {
+    "name": "Senegal",
+    "region_code": "202",
+    "regionname": "Sub-Saharan Africa",
+    "gdp": 23,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "so",
+  "fields": {
+    "name": "Somalia",
+    "region_code": "202",
+    "regionname": "Sub-Saharan Africa",
+    "gdp": 0,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "sr",
+  "fields": {
+    "name": "Suriname",
+    "region_code": "419",
+    "regionname": "Latin America and the Caribbean",
+    "gdp": 3,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "ss",
+  "fields": {
+    "name": "South Sudan",
+    "region_code": "202",
+    "regionname": "Sub-Saharan Africa",
+    "gdp": 0,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "st",
+  "fields": {
+    "name": "Sao Tome and Principe",
+    "region_code": "202",
+    "regionname": "Sub-Saharan Africa",
+    "gdp": 0,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "sv",
+  "fields": {
+    "name": "El Salvador",
+    "region_code": "419",
+    "regionname": "Latin America and the Caribbean",
+    "gdp": 27,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "sx",
+  "fields": {
+    "name": "Sint Maarten (Dutch part)",
+    "region_code": "419",
+    "regionname": "Latin America and the Caribbean",
+    "gdp": 0,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "sy",
+  "fields": {
+    "name": "Syrian Arab Republic",
+    "region_code": "145",
+    "regionname": "Western Asia",
+    "gdp": 0,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "sz",
+  "fields": {
+    "name": "Swaziland",
+    "region_code": "202",
+    "regionname": "Sub-Saharan Africa",
+    "gdp": 0,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "tc",
+  "fields": {
+    "name": "Turks and Caicos Islands",
+    "region_code": "419",
+    "regionname": "Latin America and the Caribbean",
+    "gdp": 0,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "td",
+  "fields": {
+    "name": "Chad",
+    "region_code": "202",
+    "regionname": "Sub-Saharan Africa",
+    "gdp": 11,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "tf",
+  "fields": {
+    "name": "French Southern Territories",
+    "region_code": "202",
+    "regionname": "Sub-Saharan Africa",
+    "gdp": 0,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "tg",
+  "fields": {
+    "name": "Togo",
+    "region_code": "202",
+    "regionname": "Sub-Saharan Africa",
+    "gdp": 5,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "th",
+  "fields": {
+    "name": "Thailand",
+    "region_code": "35",
+    "regionname": "South-eastern Asia",
+    "gdp": 543,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "tj",
+  "fields": {
+    "name": "Tajikistan",
+    "region_code": "143",
+    "regionname": "Central Asia",
+    "gdp": 8,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "tk",
+  "fields": {
+    "name": "Tokelau",
+    "region_code": "61",
+    "regionname": "Polynesia",
+    "gdp": 0,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "tl",
+  "fields": {
+    "name": "Timor-Leste",
+    "region_code": "35",
+    "regionname": "South-eastern Asia",
+    "gdp": 1,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "tm",
+  "fields": {
+    "name": "Turkmenistan",
+    "region_code": "143",
+    "regionname": "Central Asia",
+    "gdp": 40,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "tn",
+  "fields": {
+    "name": "Tunisia",
+    "region_code": "15",
+    "regionname": "Northern Africa",
+    "gdp": 38,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "to",
+  "fields": {
+    "name": "Tonga",
+    "region_code": "61",
+    "regionname": "Polynesia",
+    "gdp": 0,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "tr",
+  "fields": {
+    "name": "Turkey",
+    "region_code": "145",
+    "regionname": "Western Asia",
+    "gdp": 754,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "tt",
+  "fields": {
+    "name": "Trinidad and Tobago",
+    "region_code": "419",
+    "regionname": "Latin America and the Caribbean",
+    "gdp": 24,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "tv",
+  "fields": {
+    "name": "Tuvalu",
+    "region_code": "61",
+    "regionname": "Polynesia",
+    "gdp": 0,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "tw",
+  "fields": {
+    "name": "Taiwan, Province of China",
+    "region_code": "30",
+    "regionname": "Eastern Asia",
+    "gdp": 574,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "tz",
+  "fields": {
+    "name": "Tanzania, United Republic of",
+    "region_code": "202",
+    "regionname": "Sub-Saharan Africa",
+    "gdp": 63,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "ua",
+  "fields": {
+    "name": "Ukraine",
+    "region_code": "151",
+    "regionname": "Eastern Europe",
+    "gdp": 153,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "ug",
+  "fields": {
+    "name": "Uganda",
+    "region_code": "202",
+    "regionname": "Sub-Saharan Africa",
+    "gdp": 34,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "um",
+  "fields": {
+    "name": "United States Minor Outlying Islands",
+    "region_code": "57",
+    "regionname": "Micronesia",
+    "gdp": 0,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "us",
+  "fields": {
+    "name": "United States",
+    "region_code": "21",
+    "regionname": "Northern America",
+    "gdp": 21427,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "uy",
+  "fields": {
+    "name": "Uruguay",
+    "region_code": "419",
+    "regionname": "Latin America and the Caribbean",
+    "gdp": 56,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "uz",
+  "fields": {
+    "name": "Uzbekistan",
+    "region_code": "143",
+    "regionname": "Central Asia",
+    "gdp": 57,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "va",
+  "fields": {
+    "name": "Holy See (Vatican City State)",
+    "region_code": "39",
+    "regionname": "Southern Europe",
+    "gdp": 0,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "vc",
+  "fields": {
+    "name": "Saint Vincent and the Grenadines",
+    "region_code": "419",
+    "regionname": "Latin America and the Caribbean",
+    "gdp": 0,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "ve",
+  "fields": {
+    "name": "Venezuela, Bolivarian Republic of",
+    "region_code": "419",
+    "regionname": "Latin America and the Caribbean",
+    "gdp": 0,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "vg",
+  "fields": {
+    "name": "Virgin Islands, British",
+    "region_code": "419",
+    "regionname": "Latin America and the Caribbean",
+    "gdp": 0,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "vi",
+  "fields": {
+    "name": "Virgin Islands, U.S.",
+    "region_code": "419",
+    "regionname": "Latin America and the Caribbean",
+    "gdp": 0,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "vn",
+  "fields": {
+    "name": "Viet Nam",
+    "region_code": "35",
+    "regionname": "South-eastern Asia",
+    "gdp": 261,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "vu",
+  "fields": {
+    "name": "Vanuatu",
+    "region_code": "54",
+    "regionname": "Melanesia",
+    "gdp": 0,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "wf",
+  "fields": {
+    "name": "Wallis and Futuna",
+    "region_code": "61",
+    "regionname": "Polynesia",
+    "gdp": 0,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "ws",
+  "fields": {
+    "name": "Samoa",
+    "region_code": "61",
+    "regionname": "Polynesia",
+    "gdp": 0,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "ye",
+  "fields": {
+    "name": "Yemen",
+    "region_code": "145",
+    "regionname": "Western Asia",
+    "gdp": 0,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "yt",
+  "fields": {
+    "name": "Mayotte",
+    "region_code": "202",
+    "regionname": "Sub-Saharan Africa",
+    "gdp": 0,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "za",
+  "fields": {
+    "name": "South Africa",
+    "region_code": "202",
+    "regionname": "Sub-Saharan Africa",
+    "gdp": 351,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "zm",
+  "fields": {
+    "name": "Zambia",
+    "region_code": "202",
+    "regionname": "Sub-Saharan Africa",
+    "gdp": 23,
+    "itunes_mkt": 0
+  }
+},
+{
+  "model": "core.country",
+  "pk": "zw",
+  "fields": {
+    "name": "Zimbabwe",
+    "region_code": "202",
+    "regionname": "Sub-Saharan Africa",
+    "gdp": 21,
+    "itunes_mkt": 0
+  }
+}
+]
